@@ -1,0 +1,28 @@
+p{
+    color: red;
+    background-color: bisque;
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellowgreen;
+}
+
+img{
+    width: 100px;
+}
+
+#tituloPrincipal{
+    color:red;
+}
+
+#descripcion{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: green;
+}
+
+#Luciano{
+    color: orangered;
+}
